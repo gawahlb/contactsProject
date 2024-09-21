@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gawahlb/contactsProject/issues"
   },
-  "homepage": "https://github.com/gawahlb/contactsProject#readme"
+  "homepage": "https://github.com/gawahlb/contactsProject#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
