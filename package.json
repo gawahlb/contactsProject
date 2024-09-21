@@ -1,0 +1,19 @@
+{
+  "name": "contactsproject",
+  "version": "1.0.0",
+  "description": "Contacts Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gawahlb/contactsProject.git"
+  },
+  "author": "Gabriel Wahlberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gawahlb/contactsProject/issues"
+  },
+  "homepage": "https://github.com/gawahlb/contactsProject#readme"
+}
