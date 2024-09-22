@@ -1,0 +1,9 @@
+// Production
+
+### Get contact by id
+
+GET https://contactsproject-enx3.onrender.com/contacts/66ef539aeeda15d765f86c56
+
+### Get all contacts
+
+GET https://contactsproject-enx3.onrender.com/contacts
